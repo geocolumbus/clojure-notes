@@ -12,4 +12,14 @@ cd clojure-notes
 
 ## Usage
 
+Make sure you are in the ```clojure-notes``` folder.
+
+```
 lein run
+```
+
+## Clojure Documentation
+
+* [Quick Reference](https://clojuredocs.org/quickref)
+* [Core Library](https://clojuredocs.org/core-library)
+* [Tutorial](https://www.tutorialspoint.com/clojure/)
