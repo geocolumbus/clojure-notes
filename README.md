@@ -18,6 +18,11 @@ Make sure you are in the ```clojure-notes``` folder.
 lein run
 ```
 
+## See Also
+
+* [Common Lisp Notes](https://github.com/geocolumbus/clisp-notes)
+* [Scheme Notes](https://github.com/geocolumbus/scheme-notes)
+
 ## Clojure Documentation
 
 * [Quick Reference](https://clojuredocs.org/quickref)
