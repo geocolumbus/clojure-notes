@@ -18,13 +18,15 @@ Make sure you are in the ```clojure-notes``` folder.
 lein run
 ```
 
-## See Also
-
-* [Common Lisp Notes](https://github.com/geocolumbus/clisp-notes)
-* [Scheme Notes](https://github.com/geocolumbus/scheme-notes)
-
 ## Clojure Documentation
 
 * [Quick Reference](https://clojuredocs.org/quickref)
 * [Core Library](https://clojuredocs.org/core-library)
 * [Tutorial](https://www.tutorialspoint.com/clojure/)
+* [Working with Clojure in VS Code](https://spin.atomicobject.com/2017/06/22/clojure-development-with-visual-studio-code/)
+
+## See Also
+
+* [Common Lisp Notes](https://github.com/geocolumbus/clisp-notes)
+* [Scheme Notes](https://github.com/geocolumbus/scheme-notes)
+
